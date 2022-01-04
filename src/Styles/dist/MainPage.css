@@ -1,0 +1,27 @@
+.mainPage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.mainPage h1 {
+  color: #af0202;
+}
+.mainPage button {
+  width: 200px;
+  height: 40px;
+  background-color: #af0202;
+  border: none;
+  border-radius: 8px;
+  color: #e8e8e8;
+  font-size: 35px;
+}
+
+button {
+  width: 200px;
+  height: 40px;
+  background-color: purple;
+  border: none;
+  border-radius: 8px;
+  color: #e8e8e8;
+  font-size: 85px;
+}
